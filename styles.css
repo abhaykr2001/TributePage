@@ -1,0 +1,51 @@
+ body{
+    background-color: #eeeeee;
+ }
+ h1,p{
+    text-align: center;
+ }
+ figure{
+    background-color: #ffffff;
+ }
+ img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+ #img-caption {
+    text-align: center;
+ }
+ figcaption {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding: auto;
+ }
+ #headline{
+    margin:50px 0;
+    text-align: center;
+ }
+ h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+ }
+ ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.5;
+    display: block;
+    list-style-type: disc;
+    
+ }
+ h3 {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+ }
